@@ -1,0 +1,21 @@
+Bu depo NVlabs/GR00T-WholeBodyControl README'sinin ve seçili belgelerinin Türkçe çevirisini içerir.
+This repository contains a Turkish translation of the NVlabs/GR00T-WholeBodyControl README and selected documentation.
+
+Kaynak / Source: https://github.com/NVlabs/GR00T-WholeBodyControl (commit 1e1ec4f, 2026-11-02)
+Copyright (c) 2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+- Belge metni, kaynak kod, betikler ve belgelerdeki kod örnekleri / Documentation text, source code, scripts
+  and code snippets in the docs: Apache License 2.0
+  http://www.apache.org/licenses/LICENSE-2.0
+  https://github.com/NVlabs/GR00T-WholeBodyControl/blob/main/LICENSE
+  Değişiklik / Changes: Türkçeye çevrildi, Türkiye bağlantıları eklendi
+  (translated into Turkish, Turkey-specific links added).
+  Çeviri / Translation: Copyright (c) 2026 EP Robot Teknoloji (Robotlar.org), Apache License 2.0.
+- Model ağırlıkları ve kontrol noktaları / Model weights and checkpoints: NVIDIA Open Model License
+  https://github.com/NVlabs/GR00T-WholeBodyControl/blob/main/LICENSE (Part 2)
+  "Licensed by NVIDIA Corporation under the NVIDIA Open Model License."
+- Üçüncü taraf bileşenler / Third-party components: see
+  https://github.com/NVlabs/GR00T-WholeBodyControl/tree/main/legal
+
+Bu depoda kaynak kod, model, hareket verisi ya da medya dosyası bulunmaz; görseller orijinal depodan gösterilir.
+This repository holds no source code, models, motion data or media files; images are served from the original repository.
